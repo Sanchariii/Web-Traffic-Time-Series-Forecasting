@@ -2,7 +2,7 @@
  
 # Introduction:
 
-The web traffic is basically the number of sessions in a given time frame, and it varies a lot with respect to what time of the day it is, what day of the week it is, and so on, and how much web traffic of platform can withstand depends on the size of the servers that are supporting the platform.
+Web traffic time series forecasting involves predicting the number of visits to a website over a specific period of time and how much web traffic of platform can withstand depends on the size of the servers that are supporting the platform.
 If the traffic is more than what the servers can handle, the website might show this 404 error, which is something we don’t want to happen. It will make the visitors go away.. This is where forecasting is needed.
 
 A simple example of time series is the amount of year-on-year passenger traffic in the U.S. Formally, time series is just a series of data points arranged in time order or in sequence commonly taken us successive, equally spaced points time.
