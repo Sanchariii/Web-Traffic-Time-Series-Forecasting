@@ -8,7 +8,7 @@ If the traffic is more than what the servers can handle, the website might show 
 A simple example of time series is the amount of year-on-year passenger traffic in the U.S. Formally, time series is just a series of data points arranged in time order or in sequence commonly taken us successive, equally spaced points time.
 
 # Dataset
-I have worked with the web traffic dataset. It is a six-month series data set the link is given here[https://www.kaggle.com/datasets/kajal1/web-traffic-forecast-dataset].
+I have worked with the web traffic dataset. It is a six-month series data set the link is given [here](https://www.kaggle.com/datasets/kajal1/web-traffic-forecast-dataset).
 
 # Objectives
 
